@@ -1,18 +1,5 @@
+<img src="assets/code.reuse.build.svg" alt="Code. Reuse. Build. with tipi" width="250" />
 
-
-<table>
-    <tr>
-        <td>
-            <img src="assets/code.reuse.build.svg" alt="Code. Reuse. Build. with tipi" width="250" />
-        </td>
-        <td>
-            <h1>with</h1>
-        </td>
-        <td>
-            <img src="assets/tipi-build.svg" alt="tipi.build logo" width="350" />
-        </td>
-    </tr>
-</table>
 
 ## Welcome to the tipi.build Github page! 
 
