@@ -1,4 +1,4 @@
-<img src="assets/code.reuse.build.svg" alt="Code. Reuse. Build. with tipi" width="250" />
+<img src="assets/code.reuse.build.svg" alt="Code. Reuse. Build. with tipi" width="550" />
 
 
 ## Welcome to the tipi.build Github page! 
